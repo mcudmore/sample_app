@@ -100,6 +100,7 @@ a.signup_button {
   border-radius:         10px;
 }
 
+/* footer */
 footer {
   text-align: center;
   margin-top: 10px;
